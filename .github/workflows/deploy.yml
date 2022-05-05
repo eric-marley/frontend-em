@@ -1,4 +1,4 @@
-name: Website - Cloud Storage
+name: Static - Cloud Storage
 on:
   push:
     branches:
