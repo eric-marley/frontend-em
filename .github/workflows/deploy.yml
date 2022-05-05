@@ -1,0 +1,27 @@
+name: Website - Cloud Storage
+on:
+  push:
+    branches:
+    - develop
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment: 'development'
+    steps:
+    - uses: 'actions/checkout@v2'
+    - id: 'auth'
+      uses: 'google-github-actions/auth@v0'
+      with:
+        credentials_json: '${{ secrets.gcp_credentials }}'
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+    - run: npm install
+    - run: npm run build
+    - name: Set up Cloud SDK
+      uses: google-github-actions/setup-gcloud@v0
+      with:
+        project_id: ${{ secrets.gcp_project_id }}
+    - name: Deploy
+      run: |-
+        gsutil -m rsync -R dist gs://eletroads-web-dev
