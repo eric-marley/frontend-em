@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "fe8ec1ec-aaad-4133-a495-ee3043defaa4",
+    "regiao": "Grande São Paulo",
+    "total": 12345,
+    "target": 123,
+    "perc": 0.78
+  },
+  {
+    "_id": "9f8b8cb7-4966-4f80-9167-b8d5f16ef206",
+    "regiao": "Grande Rio",
+    "total": 12345,
+    "target": 123,
+    "perc": 0.78
+  }
+]

@@ -1,0 +1,17 @@
+[
+    {
+      "id": "35bb60aa-9062-1443-b909-0242ac120002",
+      "nome": "Mídia de rua",
+      "disponivel": true
+    },
+    {
+      "id": "31265acc-9062-1443-b909-0242ac120002",
+      "nome": "Elevador",
+      "disponivel": true
+    },
+    {
+      "id": "1665edba-9062-1443-b909-0242ac120002",
+      "nome": "Shopping",
+      "disponivel": false
+    }
+]

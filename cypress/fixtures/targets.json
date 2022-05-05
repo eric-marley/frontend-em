@@ -1,0 +1,269 @@
+[
+  {
+    "_id": "6bb8b6360d30090a60e05f3c",
+    "uid": "BEBIDAS_ALCOLICAS",
+    "type": "COMPORTAMENTAL",
+    "name": "Bebidas alcoólicas",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "18 a 65+"
+        ]
+      },
+      {
+        "content": "Pessoas que correspondem a:",
+        "children": [
+          "Interesses: Cerveja, Bebida destilada ou Vinho"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "1ae56d266b0605528dd0a064",
+    "uid": "GRADUACAO",
+    "type": "COMPORTAMENTAL",
+    "name": "Graduação",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "17 a 30"
+        ]
+      },
+      {
+        "content": "Pessoas que correspondem a:",
+        "children": [
+          "Nível educacional: Concluiu o ensino médio"
+        ]
+      },
+      {
+        "content": "E também deve corresponder a:",
+        "children": [
+          "Comportamentos: Pessoas no Brasil que preferem produtos de valor intermediário e alto"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "66c7e7ee1f9494e4dd0da58e",
+    "uid": "CURSINHO",
+    "type": "COMPORTAMENTAL",
+    "name": "Cursinho",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "15 a 20"
+        ]
+      },
+      {
+        "content": "Pessoas que correspondem a:",
+        "children": [
+          "Comportamentos: Pessoas no Brasil que preferem produtos de valor intermediário e alto"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "4f11e85e36d4cd5ecb09e874",
+    "uid": "GAMERS",
+    "type": "COMPORTAMENTAL",
+    "name": "Gamers",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "18 a 65+"
+        ]
+      },
+      {
+        "content": "Pessoas que correspondem a:",
+        "children": [
+          "Interesses: Jogos de ação, Jogos de tiro em primeira pessoa, Jogos online, Jogos online com múltiplos jogadores, Jogos de simulação, Jogos de corrida, Jogos de esportes, Jogos de estratégia, Jogo eletrônico ou Consoles de videogame",
+          "Comportamentos: Jogadores de videogame"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "f5705b14412e17c7ba3d3287",
+    "uid": "STREAMING",
+    "type": "COMPORTAMENTAL",
+    "name": "Streaming",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "18 a 65+"
+        ]
+      },
+      {
+        "content": "Pessoas que correspondem a:",
+        "children": [
+          "Interesses: Amazon Video, Filmes animados, Filmes de bollywood, Filmes de comédia, Filmes de fantasia, Filmes de ficção científica, Filmes de suspense, Filmes de ação, Documentários, Filmes de drama, Netflix, Filmes de anime, Filmes de terror ou Netflix Brasil"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "0fe3ccfea846327132bc811a",
+    "uid": "FAST_FOOD",
+    "type": "DEMOGRAFICO",
+    "name": "Fast food",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "18 a 65+"
+        ]
+      },
+      {
+        "content": "Pessoas que correspondem a:",
+        "children": [
+          "Interesses: Fast-food"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "e06d68acb4ab7f4422f919dc",
+    "uid": "CLASSE_C",
+    "type": "DEMOGRAFICO",
+    "name": "Classe C",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "18 a 65+"
+        ]
+      },
+      {
+        "content": "Excluir:",
+        "children": [
+          "Comportamentos: Pessoas que preferem produtos de valor alto no Brasil"
+        ]
+      },
+      {
+        "content": "Pessoas que correspondem a:",
+        "children": [
+          "Comportamentos: Pessoas no Brasil que preferem produtos de valor intermediário e alto"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "8322116fcd165d763c9f4d1a",
+    "uid": "CLASSE_AB",
+    "type": "DEMOGRAFICO",
+    "name": "Classe AB",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "18 a 65+"
+        ]
+      },
+      {
+        "content": "Pessoas que correspondem a:",
+        "children": [
+          "Comportamentos: Pessoas que preferem produtos de valor alto no Brasil"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "46917f11223b363d0d5b4c9e",
+    "uid": "CLASSE_ABC",
+    "type": "DEMOGRAFICO",
+    "name": "Classe ABC",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "18 a 65+"
+        ]
+      },
+      {
+        "content": "Pessoas que correspondem a:",
+        "children": [
+          "Comportamentos: Pessoas no Brasil que preferem produtos de valor intermediário e alto"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "787995cda829912737cac96d",
+    "uid": "MADUROS",
+    "type": "DEMOGRAFICO",
+    "name": "Maduros 50+",
+    "descriptions": [
+      {
+        "content": "Localização:",
+        "children": [
+          "Brasil"
+        ]
+      },
+      {
+        "content": "Idade:",
+        "children": [
+          "51 a 65+"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+      "nome": "Edifícios Comerciais",
+      "disponivel": true
+  },
+  {
+      "nome": "Edifícios Residenciais",
+      "disponivel": true
+  },
+  {
+      "nome": "Mídia de rua",
+      "disponivel": true
+  },
+  {
+      "nome": "Aeroportos",
+      "disponivel": true
+  },
+  {
+      "nome": "Transportes",
+      "disponivel": true
+  },
+//   {
+//       "nome": "Estabelecimentos Comerciais",
+//       "disponivel": true
+//   },
+  {
+      "nome": "Shoppings",
+      "disponivel": true
+  }
+]
